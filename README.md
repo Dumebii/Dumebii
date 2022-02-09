@@ -1,16 +1,10 @@
 ### Hi there 👋
-
-<!--
-**Dumebii/Dumebii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on getting better at what I am learning. Hoping to be an expert one day. 
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on solidity projects
 - 🤔 I’m looking for help with my learning
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about anything. 
+- 📫 How to reach me: email me @ okolodumebi@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a believer
 -->
