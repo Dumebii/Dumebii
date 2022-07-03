@@ -7,4 +7,3 @@ Hi there 👋
 - 📫 How to reach me: email me okolodumebi@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am lazy. 
--->
