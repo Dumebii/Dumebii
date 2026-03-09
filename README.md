@@ -21,4 +21,8 @@ I write extensively about AI automation, agentic workflows, and the practical ap
 * **Frontend/UX:** React, Next.js, Tailwind CSS
 * **Backend/Data:** Supabase, Playwright, Python (Scraping/Automation)
 
-📫 **Let's connect:** Reach out if you want to discuss DevEx, technical documentation strategies, or the future of agentic workflows.
+📫 **Let's connect:** Reach out
+{[LinkedIn](www.linkedin.com/in/dumebi-okolo), 
+Email: Okolodumebi@gmail.com
+} 
+if you want to discuss DevEx, technical documentation strategies, or the future of agentic workflows.
